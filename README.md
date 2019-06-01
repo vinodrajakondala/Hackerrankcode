@@ -1,0 +1,2 @@
+# Hackerrankcode
+Solved in hackerrank
